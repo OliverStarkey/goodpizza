@@ -4,7 +4,7 @@
 
 A working prototype of the core pipeline already exists in `pizza_shape.py` (GrabCut segmentation → radial Fourier equation → similarity score against a perfect circle or a folder of reference photos). This plan covers how to turn it into something whose score is actually meaningful.
 
----
+----
 
 ## Pipeline Overview
 
